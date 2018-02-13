@@ -1,7 +1,7 @@
 @title[Introduction]
 <h2>Summer</h2>
 
-<img src="images/summer_intro.png" alt="" style="height: 300px;">
+<img src="images/summer.jpg" alt="" style="height: 300px;">
 
 
 Felipe Urra
