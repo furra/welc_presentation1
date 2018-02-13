@@ -15,28 +15,28 @@ Felipe Urra
 
 Source: [wikipedia](https://en.wikipedia.org/wiki/Summer) 
 ---
-<h2>Summer in Canada</h2>
+<h3>Summer in Canada</h3>
 <img src="images/summer_canada_1.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Canada</h2>
+<h3>Summer in Canada</h3>
 <img src="images/summer_canada_2.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Canada</h2>
+<h3>Summer in Canada</h3>
 <img src="images/summer_canada_3.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Chile</h2>
+<h3>Summer in Chile</h3>
 <img src="images/summer_santiago_1.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Chile</h2>
+<h3>Summer in Chile</h3>
 <img src="images/summer_santiago_2.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Chile</h2>
+<h3>Summer in Chile</h3>
 <img src="images/summer_santiago_3.jpg" alt="" style="height: 500px;">
 ---
-<h2>Summer in Chile</h2>
+<h3>Summer in Chile</h3>
 <img src="images/summer_santiago_4.jpg" alt="" style="height: 500px;">
 ---
-<h2>Bonus: Summer food</h2>
+<h3>Bonus: Summer food</h3>
 
 <h3>Favourite food:</h3>
 
@@ -44,7 +44,7 @@ Pastel de Choclo (corn pie)
 
 <img src="images/pastel_choclo.jpg" alt="" style="height: 300px;">
 ---
-<h2>Sources</h2>
+<h3>Sources</h3>
 
 * [www.kontrolmag.com](http://www.kontrolmag.com/wp-content/uploads/2017/06/summer.jpg)
 * [enmicocinahoy.cl](https://www.enmicocinahoy.cl/pastel-de-choclo-chilean-corn-pie/)
